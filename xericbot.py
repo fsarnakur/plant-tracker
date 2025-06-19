@@ -1,5 +1,4 @@
-from keep_alive import keep_alive
-keep_alive()
+
 import sqlite3
 import base64
 import os
